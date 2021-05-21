@@ -36,6 +36,13 @@ Watch this 9 min video to learn how to write Kusto queries against Business Cent
 <br>
 </p>
 
+### How to troubleshoot issues using the Jupyter Notebook troubleshooting guides (8 min)
+Watch this 8 min video to learn how to troubleshoot issues using the Jupyter Notebook troubleshooting guides. Tip: **CTRL+click** to open in a new window.
+<p align="center">
+<a href="https://www.youtube.com/watch?v=B3EL0xdvaUY"><img src="https://img.youtube.com/vi/B3EL0xdvaUY/0.jpg" width="300"></a>
+<br>
+</p>
+
 ### Dynamics 365 Business Central Feature overview 2020: Developers can emit telemetry to Application Insights from AL code (1 min)
 Watch this 1 min video to learn how custom telemetry works. If you develop extensions for Business Central, then this is a must-see. Tip: **CTRL+click** to open in a new window.
 <p align="center">
@@ -49,6 +56,14 @@ Watch this 1 min video to learn how custom telemetry works. If you develop exten
 Watch this 56 min video to learn how about Business Central and how to use the troubleshooting guides (TSGs) we added as Jupyter Notebooks. If you need to troubleshoot anything in a Business Central environment (both on-prem and in the cloud), then this is a must-see. Tip: **CTRL+click** to open in a new window.
 <p align="center">
 <a href="https://www.youtube.com/watch?v=Q9OEZSblr2Y"><img src="https://img.youtube.com/vi/Q9OEZSblr2Y/0.jpg" width="300"></a>
+<br>
+</p>
+
+
+### How to add Azure Alerts as push notifications on your phone (4 min)
+Watch this 4 min video to learn how to add Azure Alerts as push notifications on your phone. The Alerts section in this repository contain sample queries that you can use as a starting point.  Tip: **CTRL+click** to open in a new window.
+<p align="center">
+<a href="https://www.youtube.com/watch?v=nqqVEISjSGE"><img src="https://img.youtube.com/vi/nqqVEISjSGE/0.jpg" width="300"></a>
 <br>
 </p>
 
